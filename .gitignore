@@ -1,0 +1,9 @@
+# Raw Kaggle data (download it from the link in the README)
+data/archive/
+
+# Practice notebook (not part of the project)
+notebooks/practice.ipynb
+
+# Jupyter and Python clutter
+.ipynb_checkpoints/
+__pycache__/
